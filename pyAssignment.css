@@ -1,0 +1,180 @@
+* {
+    font-family: sans-serif;
+}
+
+#container {
+    width: 970px;
+    height: 2000px;
+    border: 1px solid gray;
+}
+
+#beginning {
+    background: rgb(38, 81, 117);
+    width: 100%;
+    height: 476px;
+}
+
+#pythonLogo {
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    padding: 28px;
+}
+
+#pythonPic {
+    height: 100%;
+    width: 100%;
+}
+
+#top-left-corner {
+    display: inline-block;
+    margin-left: 200px;
+    vertical-align: top;
+}
+
+#textSize {
+    display: block;
+    text-align: right;
+    padding-right: 58px;
+}
+
+#textSize p {
+    margin-bottom: 2px;
+}
+
+#myTextSize {
+    color: white;
+}
+
+.yellowLink {
+    color: rgb(205, 174, 4);
+}
+
+#searchDiv {
+    display: block;
+    background: rgb(41, 41, 41);
+    height: 75px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+}
+
+form {
+    padding-top: 19px;
+    padding-left: 65px;
+}
+
+input {
+    height: 25px;
+    border: 1px solid rgb(193, 193, 193);
+}
+
+#submitBtn {
+    height: 32px;
+    width: 32px;
+    background: rgb(38, 81, 117);
+    border-radius: 3px;
+    padding-left: 5px;
+}
+
+
+
+#beginning-mid {
+    height: 50px;
+    width: 100%;
+}
+
+#navBar {
+    height: 100%;
+    width: 90%;
+    background: rgb(74, 127, 171);
+    /*border: 1px solid rgb(49, 105, 152);*/
+    margin-left: 42px;
+    border-radius: 10px;
+    box-shadow: 3px 3px black;  
+}
+
+h3 {
+    color: white;
+    display: inline-block;
+    margin-left: 56px;
+    line-height: 100%;
+    font-size: 17px;
+}
+
+
+#leftSide {
+    display: inline-block;
+    width: 32%;
+    color: rgb(235, 199, 71);
+    text-align: center;
+    vertical-align: top;
+}
+
+#leftSide li {
+    padding-bottom: 15px;
+}
+
+#leftSide a {
+    color: white;
+}
+
+#leftSide ul {
+    list-style-position: inside;
+}
+
+
+#rightSide {
+    display: inline-block;
+    width: 55%;
+    text-align: center;
+}
+
+#rightSide p {
+    color: white;
+}
+
+#rightSide h4 {
+    color: rgb(250, 208, 68);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+    font-size: 22px;
+}
+
+#zen {
+    color: white;
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#middle {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 300px;
+}
+
+
+
+
+
+#end {
+    background: linear-gradient(rgb(38, 82, 118), rgb(57, 120, 172));
+    width: 100%;
+    height: 100px;
+}
+
