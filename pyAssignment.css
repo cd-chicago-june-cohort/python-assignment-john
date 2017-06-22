@@ -1,6 +1,4 @@
-* {
-    font-family: sans-serif;
-}
+
 
 #container {
     width: 970px;
@@ -11,7 +9,7 @@
 #beginning {
     background: rgb(38, 81, 117);
     width: 100%;
-    height: 476px;
+    height: 538px;
 }
 
 #pythonLogo {
@@ -94,7 +92,7 @@ input {
     box-shadow: 3px 3px black;  
 }
 
-h3 {
+#navBar h3 {
     color: white;
     display: inline-block;
     margin-left: 56px;
@@ -126,7 +124,7 @@ h3 {
 
 #rightSide {
     display: inline-block;
-    width: 55%;
+    width: 60%;
     text-align: center;
 }
 
@@ -140,6 +138,8 @@ h3 {
     margin-bottom: 0px;
     padding-bottom: 5px;
     font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
 #zen {
@@ -149,32 +149,67 @@ h3 {
 
 
 
+.bottomDivs {
+    height: 200px;
+    width: 40%;
+    margin-left: 60px;
+    display: inline-block;
+    margin-top: 20px;
+    text-align: center;
+    vertical-align: top;
+}
 
+.blueBar {
+    height: 5px;
+    width: 100%;
+    background: rgb(116, 168, 211)
+}
 
+.bottomDivs h3, .bottomDivs p {
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
 
+.bottomLinks {
+    color: rgb(130, 177, 215);
+}
 
-
-
-
-
-
-
-
-
+.listDivs {
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
 #middle {
     background: rgb(255, 255, 255);
     width: 100%;
-    height: 300px;
+    height: 245px;
 }
-
-
-
-
 
 #end {
     background: linear-gradient(rgb(38, 82, 118), rgb(57, 120, 172));
     width: 100%;
     height: 100px;
+    color: rgb(132, 173, 215);
 }
+
+#bottomMessages {
+    margin-left: 130px;
+}
+
+#bottomMessages h4 {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#copywrite {
+    margin-left: 410px;
+    margin-top: 0px;
+}
+
+#copywriteText {
+    margin-top: 0px;
+}
+
+
+
 
